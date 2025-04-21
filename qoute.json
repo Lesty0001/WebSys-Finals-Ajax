@@ -2,27 +2,33 @@
 {   
     "id": 1,
     "qoute": "With great power comes great responsibility.",
-    "author": "Uncle Ben"
+    "author": "Uncle Ben",
+    "img": "https://www.geekfeed.com/wp-content/uploads/2017/07/uncle-ben-1.jpg"
 },
 {
     "id": 2,
     "qoute": "Do you bleed? You will.",
-    "author": "Batman"
+    "author": "Batman",
+    "img":"https://images.wallpapersden.com/image/download/batman-vs-superman-poster_aG5uaGyUmZqaraWkpJRpZ2ZnrWdmZmk.jpg"
+
 },
 {
     "id": 3,
     "qoute": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
-    "author": "Master Oogway"
+    "author": "Master Oogway",
+    "img": "https://i.pinimg.com/originals/4a/6d/37/4a6d37d117336e7f3a4783132ab28aec.jpg"
 },
 {
     "id": 4,
     "qoute":"Time is money.",
-    "author": "Faceless Void"
+    "author": "Faceless Void",
+    "img":"https://dotawallpapers.com/wallpaper/dotawallpapers.com-faceless-void-arcana-dota-2-4326-1920x1080.jpg"
 },
 {
     "id": 5,
     "qoute":"Enuma Elish.",
-    "author": "Gilgamesh"
+    "author": "Gilgamesh",
+    "img": "https://dotawallpapers.com/wallpaper/dotawallpapers.com-faceless-void-arcana-dota-2-4326-1920x1080.jpg"
 }
 ]
 
