@@ -1,0 +1,18 @@
+
+{   
+    "id":1,
+    "name": "Green Goblin",
+    "age": 35,
+    "email": "sample@grc.com",
+    "address": {
+        "street": "124 Elm St.",
+        "city": "New York",
+        "state": "Oklahoma",
+        "zip": "12345"
+    },
+    "company": {
+        "name":"Tech Solutions",
+        "position":"Software Engineer",
+        "department":"IT Department"
+    }
+}
