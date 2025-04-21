@@ -1,0 +1,28 @@
+[
+{   
+    "id": 1,
+    "qoute": "With great power comes great responsibility.",
+    "author": "Uncle Ben"
+},
+{
+    "id": 2,
+    "qoute": "Do you bleed? You will.",
+    "author": "Batman"
+},
+{
+    "id": 3,
+    "qoute": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    "author": "Master Oogway"
+},
+{
+    "id": 4,
+    "qoute":"Time is money.",
+    "author": "Faceless Void"
+},
+{
+    "id": 5,
+    "qoute":"Enuma Elish.",
+    "author": "Gilgamesh"
+}
+]
+
